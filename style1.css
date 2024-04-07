@@ -1,0 +1,47 @@
+﻿body
+{
+    background:url('bg.jpg');
+    background-position:center;
+    background-repeat:no-repeat;
+    font-family:Arial;
+    overflow:hidden;
+}
+.login_box{
+    margin:100px auto; 
+    width:300px;
+    background-color:#ffffff;
+    padding:16px;
+    border-radius:20px; 
+    text-align:center;
+}
+.login_box h1{
+    text-align:center;
+    color:#808080;
+    margin-top:46px;
+}
+.textfield input {
+    font-size: 15px;
+    padding: 15px 64px 10px 24px;
+    border-radius: 25px;
+    background: #f2f2f2;
+    border: none;
+    outline: none;
+}
+    .submit{
+        padding: 15px 93px 10px 82px;
+        border-radius: 25px;
+        background: linear-gradient(to bottom right, #febf63 0%, #e46d80 100%);
+        border:none;
+        color:#fff;
+        margin-top:23px;
+        font-size: 15px;
+        cursor:pointer;
+    }
+.sign{
+    color:#808080;
+    padding:60px 0px 0px 0px;
+}
+.sign a:link{
+    color:#0021ff;
+    text-decoration:none;
+}
