@@ -37,5 +37,5 @@
 
 ### Contact
 
-Name: Vibinraj Rajesh <br>
+Name: Vibinraj Rajesh<br>
 Email id: vibinrajesh2021@gmail.com
